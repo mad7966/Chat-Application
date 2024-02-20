@@ -1,4 +1,4 @@
-# Chat_Application
+# Chat-Application
 Chat Application with GUI using Java (Connection - oriented and connection less)
 
 Uses the Model View Controller Design Pattern.
